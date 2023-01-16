@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swapon Kanti Das
-- 👀 I’m interested in instructional design, learning & development, and data analysis.
-- 🌱 I’m currently learning python, r programming, articulate, Adobe Photoshop, Adobe Premiere Pro
-- 💞️ I’m looking to collaborate on instructional design, data analysis or video editing
+- 👀 I’m interested in instructional design, learning & development, UI/UX and data analysis.
+- 🌱 I’m currently learning python, r programming, articulate, Adobe Photoshop, Adobe Premiere Pro, and Figma.
+- 💞️ I’m looking to collaborate on instructional design, data analysis or UI/UX. 
 - 📫 Reach out me Swapon.Das@yahoo.com
 
 <!---
